@@ -1,12 +1,12 @@
 <template>
     
-  <div class="Appbar">
+
     <AppBar/>
-  </div>
+
   
-  <div class="categoryTab">
+
     <CategoryTab />
-  </div>
+
 </template>
 
 <script>

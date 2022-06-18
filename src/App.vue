@@ -8,6 +8,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
+import "@fontsource/noto-sans-hk";
 
 export default defineComponent({
   name: 'App',
@@ -18,3 +19,11 @@ export default defineComponent({
   },
 })
 </script>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+  font-family: 'Poppins';
+  font-weight: 900 !important;
+}
+</style>

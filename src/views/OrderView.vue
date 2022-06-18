@@ -3,9 +3,7 @@
 
     <AppBar/>
 
-  
-
-    <CategoryTab />
+    <CategoryTab style="margin-top:20px;"/>
 
 </template>
 

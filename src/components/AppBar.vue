@@ -1,5 +1,5 @@
 <template><center>
-  <v-app-bar app dense elevation="1" flat outlined rounded shaped 
+  <v-app-bar app elevation="4" color="black"
     ><v-btn icon router-link to="/"><v-icon>mdi-chevron-left</v-icon></v-btn
     ><v-app-bar-title>Pizza 外賣</v-app-bar-title
     ><v-btn icon router-link to="/"><v-icon>mdi-cart</v-icon></v-btn></v-app-bar
